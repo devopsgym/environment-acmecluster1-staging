@@ -10,6 +10,9 @@ dependencies:
 - name: my3
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: mysprinh
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: springpr22
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
